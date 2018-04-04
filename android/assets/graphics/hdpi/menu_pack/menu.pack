@@ -1,0 +1,175 @@
+
+menu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tutorial_button_left
+  rotate: false
+  xy: 0, 269
+  size: 266, 221
+  orig: 266, 221
+  offset: 0, 0
+  index: -1
+tutorial_button_right
+  rotate: false
+  xy: 0, 48
+  size: 266, 221
+  orig: 266, 221
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 0, 0
+  size: 337, 48
+  orig: 337, 48
+  offset: 0, 0
+  index: -1
+weight_icon
+  rotate: false
+  xy: 266, 290
+  size: 32, 200
+  orig: 32, 200
+  offset: 0, 0
+  index: -1
+mass_help
+  rotate: false
+  xy: 298, 440
+  size: 180, 50
+  orig: 180, 50
+  offset: 0, 0
+  index: -1
+shield_help
+  rotate: false
+  xy: 298, 390
+  size: 180, 50
+  orig: 180, 50
+  offset: 0, 0
+  index: -1
+truck_help
+  rotate: false
+  xy: 298, 340
+  size: 180, 50
+  orig: 180, 50
+  offset: 0, 0
+  index: -1
+weight_progress_bar
+  rotate: false
+  xy: 266, 165
+  size: 8, 125
+  orig: 8, 125
+  offset: 0, 0
+  index: -1
+mass_icon
+  rotate: false
+  xy: 298, 255
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+shield_icon
+  rotate: false
+  xy: 365, 255
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+truck_icon
+  rotate: false
+  xy: 432, 255
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+round_button_left_down
+  rotate: false
+  xy: 274, 192
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+round_button_left_up
+  rotate: false
+  xy: 337, 192
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+round_button_right_down
+  rotate: false
+  xy: 400, 192
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+round_button_right_up
+  rotate: false
+  xy: 274, 129
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+square_button_down
+  rotate: false
+  xy: 337, 129
+  size: 63, 63
+  split: 12, 12, 11, 11
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+square_button_up
+  rotate: false
+  xy: 400, 129
+  size: 63, 63
+  split: 12, 12, 11, 11
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+home_button_down
+  rotate: false
+  xy: 266, 69
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+home_button_up
+  rotate: false
+  xy: 326, 69
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+mute_button_off
+  rotate: false
+  xy: 386, 69
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+mute_button_on
+  rotate: false
+  xy: 337, 9
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+distance_icon
+  rotate: false
+  xy: 397, 37
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+heart_icon
+  rotate: false
+  xy: 397, 5
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+weight_progress_bar_circle
+  rotate: false
+  xy: 266, 157
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
